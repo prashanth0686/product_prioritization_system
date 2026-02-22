@@ -1,6 +1,0 @@
-@echo off
-echo Testing Python Connection...
-python --version
-echo Launching Streamlit...
-python -m streamlit run app.py
-pause
