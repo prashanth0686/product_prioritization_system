@@ -1,0 +1,15 @@
+# Secrets
+.env
+credentials.json
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
